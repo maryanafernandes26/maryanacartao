@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'História',
-    'qual o nome do navegador português que chegou ao Brasil?',
+    'Qual o nome do navegador português que chegou ao Brasil?',
     'Pedro Álvares Cabral'
 )
